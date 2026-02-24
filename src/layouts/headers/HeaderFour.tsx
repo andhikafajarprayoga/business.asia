@@ -7,7 +7,7 @@ import { useState } from "react";
 import HeaderSearchbar from "./menu/HeaderSearchbar";
 
 import logo_1 from "@/assets/img/logo-4.webp";
-import logo_2 from "@/assets/img/logo.webp";
+import logo_2 from "@/assets/img/logo-5.webp";
 
 const HeaderFour = () => {
 
